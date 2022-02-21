@@ -1,0 +1,28 @@
+[
+  {
+    "id": 1,
+    "firstName": "Ask",
+    "lastName": "about",
+    "email": "me",
+    "gender": "Babe",
+    "age": 12,
+    "address": {
+      "street": "Street",
+      "houseNumber": "12",
+      "postalCode": "12003"
+    }
+  },
+  {
+    "id" : 2,
+    "firstName" : "A",
+    "lastName": "A",
+    "email": "A",
+    "gender": "G",
+    "age": 12,
+    "address": {
+      "street": "Butt",
+      "houseNumber": "aa",
+      "postalCode": "1234"
+    }
+  }
+  ]
